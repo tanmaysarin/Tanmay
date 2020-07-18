@@ -3,12 +3,12 @@
 <br/>
 
 </a>  <a href="https://www.linkedin.com/in/tanmay-sarin/">
-  <img align="left" alt="Tanmay's LinkedIn" width="https://image.flaticon.com/icons/png/512/61/61109.png" />
+  <img align="left" alt="Tanmay's LinkedIn" width="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  
 
 <br/>
 
-  <img align="right" alt="GIF" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-eat-sleep-code-repeat-raymond-sandos.jpg" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Some techno-personal stuff about me:**
 
