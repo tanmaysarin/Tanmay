@@ -4,7 +4,7 @@
 
 </a>  <a href="https://www.linkedin.com/in/tanmay-sarin/">
   <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  ![](https://visitor-badge.glitch.me/badge?page_id=tronku.tronku)  
+</a>  
 
 <br/>
 
@@ -12,14 +12,14 @@
 
 **Some techno-personal stuff about me:**
 
-- 🔭 I’m currently working on my private android project.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on my private self-driving car project.
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to collaborate on a Hyperledger Fabric project.
 - 🤔 I’m looking for help with data structures and algorithms.
-- 💬 Ask me about android, astronomy and tv series.
-- 📫 How to reach me: Mail me at shubham.pathak2000@gmail.com
-- ⚡ Fun fact: I once redeemed Google Play credits by deploying my own paid app and buying it myself.
+- 💬 Ask me about python, anime and tv series.
+- 📫 How to reach me: Mail me at tanmaysarin@gmail.com
+- ⚡ Fun fact: I am a decent chess player, with a good state level ranking.
 - 📝[Resume](https://drive.google.com/file/d/1kK3ja0UxAJ0dgFn1H3j8gJVSyJZis2SM/view)
 
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=tanmaysarin&show_icons=true&hide_border=true&hide=[%22stars%22])
+![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaysarin&show_icons=true&hide_border=true&hide=[%22stars%22])
