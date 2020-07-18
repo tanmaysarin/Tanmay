@@ -3,7 +3,7 @@
 <br/>
 
 </a>  <a href="https://www.linkedin.com/in/tanmay-sarin/">
-  <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-eat-sleep-code-repeat-raymond-sandos.jpg" />
 </a>  
 
 <br/>
