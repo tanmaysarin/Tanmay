@@ -14,8 +14,7 @@
 
 - 🔭 I’m currently working on my private self-driving car project.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
-- 👯 I’m looking to collaborate on a Hyperledger Fabric project.
-- 🤔 I’m looking for help with data structures and algorithms.
+- 👯 I’m looking to gain experience in AI and ML.
 - 💬 Ask me about python, anime and tv series.
 - 📫 How to reach me: Mail me at tanmaysarin@gmail.com
 - ⚡ Fun fact: I am a decent chess player, with a good state level ranking.
