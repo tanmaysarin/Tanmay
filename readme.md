@@ -18,7 +18,7 @@
 - 💬 Ask me about python, anime and tv series.
 - 📫 How to reach me: Mail me at tanmaysarin@gmail.com
 - ⚡ Fun fact: I am a decent chess player, with a good state level ranking.
-- 📝[Resume](https://drive.google.com/file/d/1kK3ja0UxAJ0dgFn1H3j8gJVSyJZis2SM/view)
+- 📝[Resume](https://drive.google.com/file/d/1Yll0fgHTvHiuzYn8yzuubgiLqoWJMcW1/view?usp=sharing)
 
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaysarin&show_icons=true&hide_border=true&hide=["stars"])
