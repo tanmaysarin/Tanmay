@@ -4,7 +4,7 @@
 
 </a>  <a href="https://www.linkedin.com/in/tanmay-sarin/">
   <img align="left" alt="Tanmay's LinkedIn" width="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  
+</a>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tanmaysarin.visitor-badge)
 
 <br/>
 
@@ -21,4 +21,4 @@
 - 📝[Resume](https://drive.google.com/file/d/1kK3ja0UxAJ0dgFn1H3j8gJVSyJZis2SM/view)
 
 
-![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaysarin&show_icons=true&hide_border=true&hide=[%22stars%22])
+![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaysarin&show_icons=true&hide_border=true&hide=["stars"])
