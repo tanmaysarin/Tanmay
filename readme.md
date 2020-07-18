@@ -1,10 +1,12 @@
 ### Hey 👋, I am Tanmay Sarin
 
 <br/>
-
-</a>  <a href="https://www.linkedin.com/in/tanmay-sarin/">
-  <img align="left" alt="Tanmay's LinkedIn" width="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tanmaysarin.visitor-badge)
+<a href="https://www.hackerrank.com/tanmaysarin">
+  <img align="left" alt="Tanmay's HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
+</a>
+<a href="https://www.linkedin.com/in/tanmay-sarin/">
+  <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>     ![](https://visitor-badge.glitch.me/badge?page_id=tanmaysarin.visitor-badge)
 
 <br/>
 
