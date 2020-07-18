@@ -3,12 +3,12 @@
 <br/>
 
 </a>  <a href="https://www.linkedin.com/in/tanmay-sarin/">
-  <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-eat-sleep-code-repeat-raymond-sandos.jpg" />
+  <img align="left" alt="Tanmay's LinkedIn" width="https://image.flaticon.com/icons/png/512/61/61109.png" />
 </a>  
 
 <br/>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-eat-sleep-code-repeat-raymond-sandos.jpg" />
 
 **Some techno-personal stuff about me:**
 
