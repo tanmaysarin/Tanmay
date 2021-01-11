@@ -13,7 +13,7 @@
 
 **Some techno-personal stuff about me:**
 
-- 🔭 I’m currently working on my private self-driving car project.
+- 🔭 I’m currently working on various machine learning models.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to gain experience in AI and ML.
 - 💬 Ask me about python, anime and tv series.
